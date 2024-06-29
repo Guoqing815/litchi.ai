@@ -1,4 +1,4 @@
-# 荔知AI助手
+# 荔知AI助手 前端源码
 
 ###### 📚你不知道的，荔知知道！
 
@@ -15,15 +15,10 @@
  - https://brath.cn 
  - https://www.brath.cn
 
-# 新版 UI 一览
-
-![image-20231106170214610](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231106171454445.png)
-
-
 
 # 简介		
 
-荔知 AI 助手，是由 Brath 个人开发的一款全面 AIGC 站点，包含了市面上常用的各类 LLM 大模型，支持 StableDiffusion AI 绘画，目前稳定运营超过六个月，点击 https://brath.cn 立即加入荔知，畅享 AI 世界！
+荔知 AI 助手，是由 Brath 个人开发的一款全面 AIGC 站点，包含了市面上常用的各类 LLM 大模型，支持绘画，点击 https://brath.cn 立即加入荔知，畅享 AI 世界！
 
 
 
